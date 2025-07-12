@@ -1,5 +1,5 @@
 [package]
-name = "akatsuki-pp-py-ob"
+name = "akatsuki-pp-py"
 version = "1.0.5"
 description = "osu! difficulty and pp calculation for all modes"
 authors = ["Max Ohn <ohn.m@hotmail.de>", "tsunyoku <tsunyoku@gmail.com>"]
